@@ -1,9 +1,9 @@
 # crawler_test
 bitdefender
 - login(登入頁)![image](https://github.com/user-attachments/assets/a6d37fd6-efe6-4d06-befd-084f20a0e54a)
-USERNAME: ![image](https://github.com/user-attachments/assets/dc3043f8-3f4b-48ef-908b-484be644de8a)
-PASSWORD: ![image](https://github.com/user-attachments/assets/d2acb47b-8abf-4025-8dde-d5a71777650e)
-SUMIT: ![image](https://github.com/user-attachments/assets/8d38e871-9da3-4c9e-8a46-533238a61ef5)
+> USERNAME: ![image](https://github.com/user-attachments/assets/dc3043f8-3f4b-48ef-908b-484be644de8a)
+> PASSWORD: ![image](https://github.com/user-attachments/assets/d2acb47b-8abf-4025-8dde-d5a71777650e)
+> SUMIT: ![image](https://github.com/user-attachments/assets/8d38e871-9da3-4c9e-8a46-533238a61ef5)
 
 - loadOption(左側項目)
 ![image](https://github.com/user-attachments/assets/ca1ed407-42de-4252-b251-c224116357e1)
