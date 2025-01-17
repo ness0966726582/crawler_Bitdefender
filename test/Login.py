@@ -1,3 +1,6 @@
+#"username": "YOUR ACCOUNT",
+#"password": "YOUR PASSWORD",
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -16,11 +19,11 @@ try:
     username_input = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.ID, "textfield-1031-inputEl"))
     )
-    username_input.send_keys("2019051401@ad.dc")
+    username_input.send_keys("YOUR ACCOUNT")
 
     # 填寫密碼
     password_input = driver.find_element(By.ID, "textfield-1032-inputEl")
-    password_input.send_keys("Zz800619")
+    password_input.send_keys("YOUR PASSWORD")
 
     # 等待按鈕並點擊
     try:
